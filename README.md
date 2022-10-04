@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhat015
+- 👋 Hi, I’m Ganesh
 - 👀 I’m interested in softwares and technologies
 - 🌱 I’m currently learning to develop mobile apps
 - 📫 reach me @ ganeshbhat015@gmail.com
